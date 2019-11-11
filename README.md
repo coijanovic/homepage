@@ -1,7 +1,10 @@
-# [Homepage](https://danggoodcode.com/startpage)
+# Custom Homepage
 
-Homepage avaliable for use now at danggoodcode.com/startpage
+This is a fork of [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage). It differs as follows:
 
-<a href="https://www.patreon.com/danggoodcode"><img src="https://img.shields.io/badge/Patreon-Support%20my%20work-orange?style=for-the-badge&logo=patreon"/></a>
+- The weather is in metric
+- The content is mine
+- The colorscheme is [nord](https://github.com/arcticicestudio/nord)
+- The search uses [duckduckgo](https://duckduckgo.com) instead of Google
 
-![homepage](https://i.redd.it/cbnzq36zj3601.gif)
+![And this is what it looks like](./homepage.png)
